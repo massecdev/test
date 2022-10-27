@@ -1,4 +1,5 @@
 #!/bin/bash
 echo 'HI'
+echo 'change for PR'
 echo 'HELLO WORLD'
 echo 'changes from git hub'
